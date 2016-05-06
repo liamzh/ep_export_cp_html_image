@@ -1,0 +1,15 @@
+{
+	"parts":[
+		{
+			"name":"ep_export_cp_html_image",
+			"pre": ["ep_etherpad-lite/webaccess"],
+			"client_hooks":{
+				 "postAceInit":"ep_export_cp_html_image/static/js/index"
+			},
+			"hooks":{
+				"eejsBlock_editbarMenuLeft":"ep_export_cp_html_image/index",
+				"eejsBlock_styles": "ep_export_cp_html_image/index"
+			}
+		}
+	]
+}

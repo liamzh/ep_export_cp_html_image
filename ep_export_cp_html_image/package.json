@@ -1,0 +1,28 @@
+{
+  "name": "ep_export_cp_html_image",
+  "version": "1.0.3",
+  "description": "Better HTML export from etherpad for ep_copy_paste_images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lubuger/ep_export_cp_html_image.git"
+  },
+  "keywords": [
+    "ep_export_cp_html_image"
+  ],
+  "author": {
+    "name": "lubuger@mail.ru"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubuger/ep_export_cp_html_image/issues"
+  },
+  "_shasum": "270f9defa16daf1152d12d1083d5817e9343e9c0",
+  "_from": "ep_export_cp_html_image@",
+  "readme": "Tested on NodeJs v4.3.1 and etherpad v1.6.0\r\n\r\nDepends on ep_copy_paste_images",
+  "readmeFilename": "README.md",
+  "_id": "ep_export_cp_html_image@1.0.3"
+}
